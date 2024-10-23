@@ -4,13 +4,13 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Erick Aguilar</h1></summary>
   </ul>
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?         font=Architects+Daughter&color=%2338C2FF&size=24&center=true&vCenter=true&height=60&width=600&lines=Soy+Full+Stack+Developer" alt="Title"></img>
-  </div>
-
 </div>
 
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Full Stack Developer</h2></summary>
+  </ul>
+</div>
 
 
 <div id="user-content-toc">
