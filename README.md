@@ -3,12 +3,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy Erick Aguilar</h1></summary>
-  </ul>
-</div>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Full Stack Developer</h2></summary>
+     <summary><h2 style="display: inline-block">Full Stack Developer</h2></summary>
   </ul>
 </div>
 
