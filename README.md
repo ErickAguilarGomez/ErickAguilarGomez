@@ -8,11 +8,6 @@
 </div>
 
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Bienvenido a mi perfil</h2></summary>
-  </ul>
-</div>
 
 
 <!--Intro start-->
