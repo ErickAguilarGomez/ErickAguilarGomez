@@ -88,10 +88,9 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-  <img src="https://visitcount.itsvg.in/api?id=ErickAguilarGomez&label=Profile%20Views&color=10&icon=5&pretty=true" />
-
-  
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ErickAguilarGomez&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 </div>
 
 
