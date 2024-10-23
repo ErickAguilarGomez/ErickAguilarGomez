@@ -17,7 +17,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando en **React, Flask y PostGre**.
+- 🔭 Actualmente estoy trabajando en **React, Flask y PostgreSQL**.
 - ☁️ Tengo un gran interés en la computación en la nube, por eso estoy aprendiendo **AWS**.
 - 📫 No dudes en contactarme en **lemayor02@hotmail.com**
 <!--Intro end-->
