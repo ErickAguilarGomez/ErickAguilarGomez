@@ -77,6 +77,17 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/erick-c-a-g/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<!-- Ícono de correo -->
+<a href="mailto:lemayor02@hotmail.com" target="_blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/235061246-7f43e5f3-2fb9-44a3-85b7-7f8d8d9e9a61.png" alt="email" height="50" width="50" />
+</a>
+
+<!-- Ícono de currículum -->
+<a href="https://drive.google.com/file/d/13ygx960OaXPQt58Pzn-zHZt9klV2luNy/view" target="_blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/235062143-1ca30dba-1d87-4757-aed4-cf2d4bd54c50.png" alt="curriculum" height="50" width="50" />
+</a>
+
+
 </p>
 
 
